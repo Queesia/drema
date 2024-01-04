@@ -1,0 +1,36 @@
+p{
+  text-align:center;
+}
+  
+div{
+  background-clip: padding-box;
+  border: 5px solid rgba(255, 0, 0, 0);
+  width: 500;
+  heith: auto;
+  
+}
+.abs{
+  position:absolute;
+  left:600px;
+  top:10;
+}
+
+<style>
+#kpos{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+#k{
+  width:550px;
+}
+
+#mpos{
+  position: absolute;
+  top: 600px;
+  left: 0px;
+}
+
+#m{
+  width:500px;
+}
